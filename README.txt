@@ -1,0 +1,1 @@
+POCKTIVO V4.0 – lokale Demo. GitHub Pages: index.html, leistungen.json, ablauf.json im Hauptverzeichnis ersetzen/hochladen. Keine echten Kundendaten verwenden. Die Vorgängerversion wurde nicht überschrieben. Alte prueffragen.json kann im Repository bleiben.
